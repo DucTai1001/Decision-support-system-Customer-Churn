@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: admin
+      password: $2b$12$b7iRoIi1QSOvBsLPb01LF.11uWm3hqzXd/Pr6oOj4uJPrBZcFDGGK # To be replaced with hashed password
+    admin1:
+      email: admin1@gmail.com
+      name: admin1
+      password: $2b$12$9RV1a0dx7ZjPl3KYQhkxFukiLZ1i/nFUTAKFbnevMv6aJm//B7q32 # To be replaced with hashed password
+cookie:
+  expiry_days: 1
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
+
